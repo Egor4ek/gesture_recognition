@@ -1,0 +1,6 @@
+0:down
+1:fist
+2:left
+3:palm
+4:right
+5:up

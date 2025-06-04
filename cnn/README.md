@@ -52,7 +52,7 @@
 
 Ниже представлено видео результатов тестирования модели:
 
-![testing](images/Screen Video.mp4)
+![testing](images/Screen Video.gif)
 
 # Взаимодействие нейросети с роботом
 
